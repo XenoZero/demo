@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class Hello
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello Ubuntu");
+	}
+}
